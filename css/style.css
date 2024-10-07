@@ -32,3 +32,14 @@ main {
     height: 120px;
     width: 120px;
 }
+
+ul {
+    font-family: cursive;
+    color: yellowgreen;
+}
+
+.caja {
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+}
