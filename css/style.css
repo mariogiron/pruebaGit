@@ -26,3 +26,9 @@ main {
     margin-top: 100px;
     margin-left: 100px;
 }
+
+.boton {
+    background-color: lightcoral;
+    height: 120px;
+    width: 120px;
+}

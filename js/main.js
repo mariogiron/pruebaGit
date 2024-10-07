@@ -5,3 +5,6 @@ button.addEventListener('click', (event) => {
 });
 
 console.log('Hello');
+
+const boton = document.querySelector(".boton");
+console.log(boton.textContent);
